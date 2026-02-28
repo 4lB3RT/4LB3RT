@@ -1,35 +1,44 @@
-# Hola Mundo soy Albert👋
+# Albert García 👋
 
-Bienvenidos a mi perfil de GitHub.
+Software Engineer · Barcelona
 
-Primero quiero presentarme así haré una breve descripción.
+Ingeniero backend desde 2016. Especializado en PHP/Laravel con DDD y arquitectura hexagonal. Enfocado en integrar IA en sistemas de producción.
 
-## ¿Quién soy?🤦‍♂️
---- 
+## Sobre mí
 
-Soy Albert y soy ingeniero de software desde 2016, donde accedí a mis primeras prácticas como "programado". Desde que empece siempre me ha gustado mucho. Y a día de hoy sigo con la misma motivación que con la que empece.
+```php
+<?php
 
-## ¿Donde me puedes encontrar?🤷‍♂️
+final class Albert
+{
+    public string $role     = 'Software Engineer';
+    public string $location = 'Barcelona';
 
-🔴 [YOUTUBE](https://www.youtube.com/channel/UCXModX2oqGBqVjf4M6cFmrw)
+    public function stack(): array
+    {
+        return [
+            'backend'      => ['PHP', 'Laravel', 'Python'],
+            'data'         => ['MySQL', 'BigQuery', 'SQL'],
+            'architecture' => ['DDD', 'CQRS', 'Event Sourcing', 'Hexagonal', 'TDD'],
+            'infra'        => ['Docker', 'RabbitMQ', 'Google Cloud', 'CI/CD'],
+            'ai'           => ['OpenAI', 'Sora', 'Veo', 'Gemini', 'Prism PHP', 'MCP Servers'],
+        ];
+    }
 
-🟣 [TWITCH](https://www.youtube.com/channel/UCXModX2oqGBqVjf4M6cFmrw)
+    public function currentFocus(): string
+    {
+        return 'Integrating AI (Gemini, Veo) into real production systems';
+    }
+}
+```
 
-🔵 [TWITTER](https://www.youtube.com/channel/UCXModX2oqGBqVjf4M6cFmrw)
+## Lo que me define
 
-Salud2!👋
+- 🏗️ Diseño de arquitecturas y decisiones de stack desde cero
+- ⚡ Datos a escala — consultas sobre 236M+ registros en segundos
+- 🧪 Testing como cultura — cobertura del 20% al 54% en producción
+- 👥 Liderazgo técnico y mentoría de equipos backend
 
-<!--
-**4lB3RT/4LB3RT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXModX2oqGBqVjf4M6cFmrw) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/4lB3RT) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/4LB3RTTT)
