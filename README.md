@@ -2,7 +2,7 @@
 
 Software Engineer · Barcelona
 
-Ingeniero backend desde 2016. Especializado en PHP/Laravel con DDD y arquitectura hexagonal. Enfocado en integrar IA en sistemas de producción.
+Ingeniero backend desde 2016. Especializado en PHP/Laravel con DDD y arquitectura hexagonal.
 
 ## Sobre mí
 
