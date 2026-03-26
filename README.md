@@ -37,7 +37,6 @@ final class Albert
 - 🏗️ Diseño de arquitecturas y decisiones de stack desde cero
 - ⚡ Datos a escala — consultas sobre 236M+ registros en segundos
 - 🧪 Testing como cultura — cobertura del 20% al 54% en producción
-- 👥 Liderazgo técnico y mentoría de equipos backend
 
 ---
 
